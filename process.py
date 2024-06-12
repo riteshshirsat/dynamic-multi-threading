@@ -69,7 +69,7 @@ def create_thread():
     except Exception as err:
             errorHandling(err)
 
-####----start on PHP execution----####
+####----start execution----####
 create_thread()
 
             
